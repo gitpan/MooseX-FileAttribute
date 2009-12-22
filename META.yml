@@ -30,4 +30,4 @@ resources:
   bugtracker: http://github.com/jrockway/moosex-fileattribute
   license: http://dev.perl.org/licenses/
   repository: http://github.com/jrockway/moosex-fileattribute
-version: 0.01
+version: 0.02
